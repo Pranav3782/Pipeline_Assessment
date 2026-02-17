@@ -8,3 +8,4 @@ pdfplumber
 pydantic
 dotenv
 langchain-groq
+langchain.prompts
