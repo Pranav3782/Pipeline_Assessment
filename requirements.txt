@@ -3,9 +3,8 @@ uvicorn
 langgraph
 langchain
 langchain-openai
+langchain-groq
 python-multipart
 pdfplumber
 pydantic
-dotenv
-langchain-groq
-langchain.prompts
+python-dotenv
